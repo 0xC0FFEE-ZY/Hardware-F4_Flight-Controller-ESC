@@ -1,5 +1,5 @@
 本项目所有硬件均已制作出成品并工作正常。详情可访问链接：
-4.69 复制打开抖音，看看【0xC0FFEE_ZY的作品】来自己设计一架飞行器吗？大学生都可以搓出来的那种 ... https://v.douyin.com/IV35Ru2iirk/ m@Q.Xz WMJ:/ 10/09 
+https://v.douyin.com/IV35Ru2iirk/ m@Q.Xz WMJ:/ 10/09 
 
 欢迎访问作者抖音(抖音号Technophilic，昵称：0xC0FFEE_ZY)/B站(UID:481302692，昵称：0xC0FFEE_ZY)
 本项目包含：
