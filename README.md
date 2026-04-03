@@ -1,5 +1,6 @@
-本项目所有硬件均已制作出成品并工作正常。详情可访问链接：
-https://v.douyin.com/IV35Ru2iirk/ m@Q.Xz WMJ:/ 10/09 
+本项目所有硬件均已制作出成品并工作正常。详情视频可访问链接：
+抖音：https://v.douyin.com/IV35Ru2iirk/ m@Q.Xz WMJ:/ 10/09 
+B站： https://b23.tv/8fPYSKL
 
 欢迎访问作者抖音(抖音号Technophilic，昵称：0xC0FFEE_ZY)/B站(UID:481302692，昵称：0xC0FFEE_ZY)
 本项目包含：
