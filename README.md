@@ -1,2 +1,10 @@
-# -PCB-F4-CAD-
-本项目包含：1、穿越机飞控（STM32F405RGT6)）硬件原理图+PCB；2、电调（AT32F421G8U7）硬件原理图+PCB；3、穿越机机架CAD图纸。
+穿越机飞控+单路电调+机架
+本项目包含：
+    1、穿越机飞控硬件原理图+PCB；飞控主控芯片为STM32F405RGT6；
+        飞控硬件原理图来源：立创开源广场：https://oshwhub.com/eda_gdwvpslx/stm32f405rgt6-fei-kong
+        飞控PCB为本项目作者（0xC0FFEE_ZY）绘制。
+    2、电调硬件原理图+PCB；主控芯片为AT32F421G8U7；
+        电调原理图来源：https://oshwhub.com/mooncake_g/moonpilot。
+        电调PCB为本项目作者（0xC0FFEE_ZY）绘制。
+    3、穿越机机架CAD图纸。
+    4、飞控、电调固件烧录文件
